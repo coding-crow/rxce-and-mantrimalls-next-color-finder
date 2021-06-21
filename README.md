@@ -1,9 +1,9 @@
 # rxce-and-mantrimalls-next-color-finder
-this is paid tool to find upcoming next color in rxce and mantrimalls
+this is paid tool to find upcoming next color in rxce and mantrimalls (now only this two sites are working perfectly,moreover there is have huge demand for this script)
 
 need to pay 100 rs for file unzipping file(entering wrong passwd will cause to auto curreption)
 
-open this bot ==> @Coding_moose_bot for payment and passwsord 
+open this bot  for payment verification and passwrd  ==> https://t.me/Coding_moose_bot  
 
 am not responsible for your problems
 
