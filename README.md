@@ -28,3 +28,6 @@ php rxce.php (wait 30 sec to load)
        or
        
 php mantrimalls.php (wait 30 sec to load)
+
+
+( NOTE:this tool automatically obtain your browser cache,so use chrome browser to login the color prediction site before using the tool to  work properly )
